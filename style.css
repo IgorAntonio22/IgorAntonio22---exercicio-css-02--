@@ -1,0 +1,230 @@
+body {
+    background-color: rgb(8, 8, 8);
+    color: white;
+}
+
+div {
+    width: 350px;
+    height: 220px;
+    margin: 5% 0% 0% 0%;
+    background-size: 400px;
+    padding: 1%;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+.riobranco {
+    margin: 0% 3% 0% 3%;
+    border: 3px dotted blue;
+}
+
+.maceio {
+    margin: 0% 3% 0% 0%;
+    border: 3px dotted orange;
+}
+
+.macapa {
+    margin: 0% 3% 0% 0%;
+    border: 3px dotted red;
+}
+
+.manaus {
+    margin: 0% 2% 0% 0%;
+    border: 3px dotted green;
+}
+
+.salvador {
+    margin: 2% 3% 0% 3%;
+    border-top-left-radius: 10%;
+    border-color: rgb(14, 112, 91);
+}
+
+.fortaleza {
+    margin: 0% 3% 0% 0%;
+    border-top-left-radius: 10%;
+    border-color: rgb(41, 202, 122);
+}
+
+.brasilia {
+    margin: 0% 3% 0% 0%;
+    border-top-left-radius: 10%;
+    border-color: rgb(40, 107, 165);
+}
+
+.vitoria {
+    margin: 0% 3% 0% 0%;
+    border-top-left-radius: 10%;
+    border-color: rgb(22, 179, 165);
+}
+
+.goiania {
+    margin: 2% 3% 0% 3%;
+    border: 3px dashed rgb(49, 28, 99);
+}
+
+.saoluis {
+    margin: 0% 3% 0% 0%;
+    border: 3px dashed rgb(37, 52, 189);
+}
+
+.cuiaba {
+    margin: 0% 3% 0% 0%;
+    border: 3px dashed rgb(255, 217, 0);
+}
+
+.campogrande {
+    margin: 0% 3% 0% 0%;
+    border: 3px dashed rgb(255, 60, 0);
+}
+
+.belohorizonte {
+    margin: 2% 3% 0% 3%;
+    border-bottom-left-radius: 5%;
+    border-color: rgb(48, 248, 75);
+}
+
+.belem {
+    margin: 0% 3% 0% 0%;
+    border-bottom-left-radius: 5%;
+    border-color: rgb(83, 180, 27);
+}
+
+.joaopessoa {
+    margin: 0% 3% 0% 0%;
+    border-bottom-left-radius: 5%;
+    border-color: rgb(18, 19, 109);
+}
+
+.curitiba {
+    margin: 0% 3% 0% 0%;
+    border-bottom-left-radius: 5%;
+    border-color: rgb(248, 48, 171);
+}
+
+.recife {
+    margin: 2% 3% 0% 3%;
+    border-top-color: blue;
+    border-right-color: purple;
+    border-bottom-color: rgb(184, 43, 43);
+    border-left-color: blueviolet;
+}
+
+.teresina {
+    margin: 0% 3% 0% 0%;
+    border-top-color: rgb(84, 84, 180);
+    border-right-color: rgb(197, 74, 197);
+    border-bottom-color: rgb(255, 0, 0);
+    border-left-color: rgb(60, 38, 184);
+}
+
+.riodejaneiro {
+    margin: 0% 3% 0% 0%;
+    border-top-color: rgb(114, 253, 21);
+    border-right-color: rgb(239, 253, 43);
+    border-bottom-color: rgb(255, 102, 0);
+    border-left-color: rgb(255, 0, 0);
+}
+
+.natal {
+    margin: 0% 3% 0% 0%;
+    border-top-color: rgb(0, 195, 255);
+    border-right-color: rgb(255, 0, 255);
+    border-bottom-color: rgb(255, 0, 43);
+    border-left-color: rgb(174, 0, 255);
+}
+
+.natal h2 {
+    font-size: 24px;
+}
+
+.portoalegre {
+    margin: 2% 3% 0% 3%;
+    border: 3px double red;
+}
+
+.portovelho {
+    margin: 0% 3% 0% 0%;
+    border: 3px double gold;
+}
+
+.boavista {
+    margin: 0% 3% 0% 0%;
+    border: 3px double teal;
+}
+
+.florianopolis {
+    margin: 0% 3% 0% 0%;
+    border: 3px double rgb(0, 255, 200);
+}
+
+.saopaulo {
+    margin: 2% 3% 0% 3%;
+    border: 3px groove grey;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+}
+
+.aracaju {
+    margin: 0% 3% 0% 0%;
+    border: 3px groove greenyellow;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+}
+
+.palmas {
+    margin: 0% 3% 0% 0%;
+    border: 3px groove rgb(25, 93, 196);
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+}
+
+img {
+    width: 120px;
+    height: 100px;
+    margin-top: 3%;
+    margin-right: 0%;
+    background-image: url(img/bh.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-clip: content-box;
+    float: left;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    margin: 2% 0% 3% 0%;
+}
+
+h2 {
+    font-size: 25px;
+    padding: 0%;
+    display: inline-block;
+    margin: 0% 0% 0% 40%;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+h4 {
+    font-size: 15px;
+    margin: 5% 70% 0% 0%;
+    text-decoration: underline;
+}
+
+img, p {
+    display: inline-block;
+}
+
+.textbox {
+    font-size: 11px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 15px;
+}
+
